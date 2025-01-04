@@ -35,6 +35,7 @@ This section includes visual documentation of the project:
 1. **Query in Action**:
    - Shows a Splunk query running and displaying results.
    - Filename: `query_in_action.png`(https://github.com/TechFella1024/LogAnalysiswithSplunk-/blob/main/query_in_action.png)
+
 2. **Failed Login Results**:
    - Highlights failed login attempts and suspicious IP addresses.
    - Filename: `failed_login_results.png`
