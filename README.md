@@ -34,15 +34,15 @@ This section includes visual documentation of the project:
 
 1. **Query in Action**:
    - Shows a Splunk query running and displaying results.
-   - Filename: `query_in_action.png`(https://github.com/TechFella1024/LogAnalysiswithSplunk-/blob/main/query_in_action.png)
+   - ![Query in Action](https://github.com/TechFella1024/LogAnalysiswithSplunk-/blob/main/query_in_action.png)
 
 2. **Failed Login Results**:
    - Highlights failed login attempts and suspicious IP addresses.
-   - Filename: `failed_login_results.png`
+   - ![Failed Login Results](https://github.com/TechFella1024/LogAnalysiswithSplunk-/blob/main/failed_login_results.png)
 
 3. **Dashboard Visualization**:
    - Displays a dashboard showing login trends and top offending IPs.
-   - Filename: `dashboard_visualization.png`
+   - ![Dashboard Visualization](https://github.com/TechFella1024/LogAnalysiswithSplunk-/blob/main/dashboard_visualization.png)
 
 ## Lessons Learned
 - **Log Ingestion**: Learned how to upload and index logs in Splunk.
